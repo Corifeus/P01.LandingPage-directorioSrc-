@@ -1,0 +1,4 @@
+services:
+#    entregable.example:
+#        class: EntregableBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

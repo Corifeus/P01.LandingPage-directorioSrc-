@@ -1,0 +1,11 @@
+entregable_homepage:
+    path:     /
+    defaults: { _controller: EntregableBundle:Default:index }
+
+entregable_producto1:
+    path:     /producto1
+    defaults: { _controller: EntregableBundle:Default:producto1 }
+
+entregable_producto2:
+    path:     /producto2
+    defaults: { _controller: EntregableBundle:Default:producto2 }
